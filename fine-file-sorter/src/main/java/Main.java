@@ -38,8 +38,5 @@ public class Main {
         fileWorker.metod2("/jar/",rootPath,jar);
         fileWorker.metod2("/msi/",rootPath,msi);
         fileWorker.metod2("/flv/",rootPath,flv);
-
-
-
     }
 }
