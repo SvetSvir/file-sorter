@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/filesorter/pom.xml" />
+        <option value="$PROJECT_DIR$/file--sorter/pom.xml" />
       </list>
     </option>
   </component>

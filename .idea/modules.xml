@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FineFile-sorter/file--sorter.iml" filepath="$PROJECT_DIR$/FineFile-sorter/file--sorter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/file-sorter.iml" filepath="$PROJECT_DIR$/.idea/file-sorter.iml" />
       <module fileurl="file://$PROJECT_DIR$/filesorter/filesorter.iml" filepath="$PROJECT_DIR$/filesorter/filesorter.iml" />
     </modules>
